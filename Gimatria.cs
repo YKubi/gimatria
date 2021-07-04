@@ -179,7 +179,7 @@ namespace FindAddIn
         /// </summary>
         private static readonly Dictionary<string, string> AlphabeticDictionary = new Dictionary<string, string>
         {
-            {"ם", "מ"}, {"ן", "נ"}, {"ץ", "ס"}, {"ף", "ע"}, {"ך", "פ"}, {"\u05F0", "וו"}, {"\u05F1", "וי"},
+            {"ם", "מ"}, {"ן", "נ"}, {"ץ", "צ"}, {"ף", "פ"}, {"ך", "כ"}, {"\u05F0", "וו"}, {"\u05F1", "וי"},
             {"\u05F2", "יי"}, {"\uFB1D", "י"}, {"\uFB1E", ""}, {"\uFB1F", "יי"},
             {"\uFB20", "ע"}, {"\uFB21", "א"}, {"\uFB22", "ד"}, {"\uFB23", "ה"}, {"\uFB24", "כ"}, {"\uFB25", "ל"}, {"\uFB26", "מ"},
             {"\uFB27", "ר"}, {"\uFB28", "ת"}, {"\uFB29", ""}, {"\uFB2A", "ש"}, {"\uFB2B", "ש"}, {"\uFB2C", "ש"}, {"\uFB2D", "ש"},
