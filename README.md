@@ -11,4 +11,4 @@ It has a very good "Text Cleaner" that removes all unrelevant characretrs, and t
 
 
 
-Gematria is a traditional Jewish system of assigning numerical value to a word or phrase (Wikipedia)
+
